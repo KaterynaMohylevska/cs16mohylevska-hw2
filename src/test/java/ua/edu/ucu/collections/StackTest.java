@@ -1,4 +1,4 @@
-package ImmutableCollections.src.test.java.ua.edu.ucu.collections;
+package ua.edu.ucu.collections;
 
 import org.junit.Test;
 import static org.junit.Assert.*;
